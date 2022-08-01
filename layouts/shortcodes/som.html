@@ -1,0 +1,7 @@
+{{- $id := .Get "id" | default (.Get 0) -}}
+
+<br>
+
+<div id="som-player" class="som-embed-player" data-id="$id"><script src="https://screencast-o-matic.com/player/appearance/{{ $id }}"></script><iframe width=100% height=100% style="border:0;" scrolling="no" src="https://screencast-o-matic.com/player/{{$id}}?width=100%&height=100%&ff=1&title=0" allowfullscreen="true"></iframe></div>
+
+<br>
