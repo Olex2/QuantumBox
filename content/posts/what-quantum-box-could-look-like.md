@@ -27,8 +27,15 @@ graph LR
     class A1 s1;
 {{< /mermaid >}}
 
+{{< som id="c3jVIrVZwNQ" >}}
+
 Through a *pysical measurement*, we can obtain the *crystal structure* of a crystalline material. Once we have the structure, we can deduce many properties of the material, and that is often at the heart of why we perform a structure analysis in the first place.
 
 > You can find more detail here: [crystallograpic workflow](/posts/basic-crystallography-workflow).
 
-So, process is straigthforward: we perform a physical measurement with the aim to deduce some chemical and physical properties of the material under investigation.
+
+So, the process is straigthforward: we perform a physical measurement with the aim to deduce some chemical and physical properties of the material under investigation.
+
+Striaghforward doesn't mean easy: the measurements must be performed with the greatest care and there are limitations due to the technology available at the time. And diffractometers have steadily improved over the decades: the data quality achievable nowadays is truly outstanding.
+
+Alongside the development of better diffractometers, computing power has also increased enormously during the 50 years (or so) during which routine structure analyses have been carried out.
