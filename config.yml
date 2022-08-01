@@ -1,8 +1,6 @@
-baseURL: http://example.org/
+baseURL: ""
 languageCode: en-us
-title: My New Hugo Site
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+title: QuantumBox
 paginate: 5
 theme: PaperMod
 
@@ -10,8 +8,6 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
-googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -64,8 +60,8 @@ params:
   # profile-mode
   profileMode:
     enabled: false  #needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    title: QuantumBox
+    subtitle: "The future of crystallography"
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
@@ -120,10 +116,6 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: olexsys.org
-      url: https://olexsys.org
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
