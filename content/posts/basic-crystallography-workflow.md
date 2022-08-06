@@ -4,7 +4,7 @@ title: "The basic crystallographic workflow"
 date: "2022-07-31"
 description: "How a structure is typically obtained"
 tags: ["crystallography", "small-molecule", "structure solution", "data reduction", "structure refinement"]
-categories: ["QuantumBox"]
+categories: ["Crystallography"]
 ShowToc: true
 ---
 
