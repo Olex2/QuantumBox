@@ -11,7 +11,15 @@ ShowToc: true
 
 QuantumBox is a collaborative community project that will result in the provision of a toolbox for small-molecule crystallography. It will contain all the tools that are necessary to perform meaningful structure analyses now and for the future.
 
-Led by the Universities of [Southampton](https://www.southampton.ac.uk/) and [Durham](https://www.durham.ac.uk) , and fully funded by the EPSRC, this three-year project will begin on the first of September 2022.
+Led by the Universities of [Southampton](https://www.southampton.ac.uk/) and [Durham](https://www.durham.ac.uk) this three-year project will run for three years from 1 September 2022.
+
+This project is fully funded by the EPSRC.
+
+There are two aspects to QuantumBox:
+
+## Interoperability of existing (quantum) crystallographic software
+
+## Creation of the Quantum Crystallographic Toolbox (qctbx) within the Computational Crystallography Toolbox (cctbx).
 
 
 ---
